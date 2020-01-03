@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/From string to a number/out/
+/Problems/From string to a number/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Initializing an array of longs/out/
+/Problems/Initializing an array of longs/out/production/classes/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/The length of the sequence/out/
+/Problems/The length of the sequence/out/production/classes/
+/Problems/The secret enumeration/out/
+/Problems/The secret enumeration/out/production/classes/
+/Problems/The sequence/out/
+/Problems/The sequence/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
